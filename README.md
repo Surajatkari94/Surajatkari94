@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python Programming
 - 🌱 I’m currently learning Python basics
 - 💞️ I’m looking to learn it throughly
-- 📫 How to reach me @surajatkari94
+- 📫 How to reach me github.com/surajatkari94
 
 <!---
 Surajatkari94/Surajatkari94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
